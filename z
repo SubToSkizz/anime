@@ -15,7 +15,7 @@
 :root {
 --main-theme-color: #B50000FF;
 --theme-transparency: #000000cc;
---theme-background-image: url('https://i.imgur.com/qLKAPYG.mp4');
+--theme-background-image: url('https://i.imgur.com/qLKAPYG.gif');
 --home-icon-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMk1N-OnRqMw8i31xzDzuxdj6o9z1l5dvEoQ&usqp=CAU');
 --home-icon-image-zoom: 100%;
 --home-icon-image-position: center;
