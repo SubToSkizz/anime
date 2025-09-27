@@ -97,7 +97,7 @@ body::before {
   left: 0;
   height: 100vh;
   width: 100vw;
-  background: url('https://i.imgur.com/zf2Q4T0.gif') center center / cover no-repeat;
+  background: url('https://i.imgur.com/hYS8opk.mp4.gif') center center / cover no-repeat;
   z-index: -1;
   pointer-events: none;
   opacity: 0.2; /* change à 1 si tu veux full visible */
