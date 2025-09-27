@@ -89,7 +89,6 @@
   --customFont: 'Staatliches';
 }
 
-/* 🌀 Fond animé hacké avec ::before */
 body::before {
   content: '';
   position: fixed;
@@ -97,8 +96,8 @@ body::before {
   left: 0;
   height: 100vh;
   width: 100vw;
-  background: url('https://i.imgur.com/hYS8opk.mp4.gif') center center / cover no-repeat;
+  background: url('https://media.tenor.com/GJcDdyk4bWcAAAAC/tokyo-ghoul-kaneki.gif') center center / cover no-repeat;
   z-index: -1;
   pointer-events: none;
-  opacity: 0.2; /* change à 1 si tu veux full visible */
+  opacity: 0.3; /* tu peux mettre 1 si tu veux plus visible */
 }
