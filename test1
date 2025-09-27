@@ -88,16 +88,18 @@
   --rs-phone-visible: block;
   --customFont: 'Staatliches';
 }
-
 body::before {
   content: '';
   position: fixed;
   top: 0;
   left: 0;
-  height: 100vh;
   width: 100vw;
-  background: url('https://media.tenor.com/GJcDdyk4bWcAAAAC/tokyo-ghoul-kaneki.gif') center center / cover no-repeat;
+  height: 100vh;
+  background-image: url('https://i.imgur.com/hYS8opk.GIF');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   z-index: -1;
+  opacity: 0.3;
   pointer-events: none;
-  opacity: 0.3; /* tu peux mettre 1 si tu veux plus visible */
 }
